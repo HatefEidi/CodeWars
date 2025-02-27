@@ -1,0 +1,1 @@
+This repository is designed to store and practice the codewar problems from the Codewars platform. The repository is organized into several directories, each containing a set of problems related to a specific topic.  
